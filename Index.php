@@ -11,10 +11,11 @@
     <link rel="stylesheet" href="assets/css/estilos.css">
 </head>
 <body>
-
+    
         <main>
 
             <div class="contenedor__todo">
+
                 <div class="caja__trasera">
                     <div class="caja__trasera-login">
                         <h3>¿Ya tienes una cuenta?</h3>

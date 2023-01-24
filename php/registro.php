@@ -14,7 +14,7 @@
     if(mysqli_num_rows($verificar_usuario) > 0){
         echo'
             <script>
-                alert("ESTE CORREO YA ESTA REGISTRADO,INTENTA CON OTRO DIFERENTE");
+                alert("ESTE USUARIO YA ESTA REGISTRADO,INTENTA CON OTRO DIFERENTE");
                 window.location ="../index.php";
             </script>
         ';
