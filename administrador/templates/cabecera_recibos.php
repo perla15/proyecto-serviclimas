@@ -13,15 +13,22 @@
 <body id="body">
     
     <header>
-        <div class="icon__menu">
-            <i class="fas fa-bars" id="btn_open"></i>
-        </div>
+        <a href="../secciones/clientes.php">
+                <div >
+                    <h2 style="margin-left: 20px;"><i class="fa-solid fa-user-plus"></i>Nuevo Cliente</h2>
+                </div>
+        </a>
+        <a href="../secciones/nuevo_recibo.php">
+                <div >
+                    <h2 style="margin-left: 20px;"><i class="fa-solid fa-file-circle-plus"></i>Nuevo Recibo</h2>
+                </div>
+        </a>
     </header>
 
     <div class="menu__side" id="menu_side">
 
         <div class="name__page">
-            <i class="fa-solid fa-screwdriver-wrench"></i>
+            <i class="fa-solid fa-right-left" id="btn_open"></i>
             <h4>BIEVENIDO</h4>
         </div>
 

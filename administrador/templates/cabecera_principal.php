@@ -13,15 +13,13 @@
 <body id="body">
     
     <header>
-        <div class="icon__menu">
-            <i class="fas fa-bars" id="btn_open"></i>
-        </div>
+        
     </header>
 
     <div class="menu__side" id="menu_side">
 
         <div class="name__page">
-            <i class="fa-solid fa-screwdriver-wrench"></i>
+            <i class="fa-solid fa-right-left" id="btn_open"></i>
             <h4>BIEVENIDO</h4>
         </div>
 
